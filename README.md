@@ -1,2 +1,2 @@
 # MNIST-Digit-Recognizer
-99> accuracy withh cnn
+99> accuracy withh cnn and augmentation
